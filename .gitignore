@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+/**/node_modules/
+
+# OS
+.DS_Store
+**/.DS_Store
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Caches
+.turbo/
+.cache/
+
+*.app
+*.app/
+Build/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.log
+*.mp3
+*.icns
+*.pdf
+*.car
+.venv/
+.wrangler/
+.env*
